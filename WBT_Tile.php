@@ -1,5 +1,5 @@
 <?php
-use GDO\DB\GDO;
+use GDO\Core\GDO;
 
 final class WBT_Tile extends GDO
 {
